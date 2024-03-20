@@ -1,20 +1,20 @@
 {
-  "name": "customlogger", 
-  "version": "1.0.0", 
-  "description": "by Andretanko", 
+  "name": "customloggerpratt",
+  "version": "1.0.0",
+  "description": "by Andretanko",
   "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Andretanko/customlogger.git" 
+    "url": "git+ssh://git@github.com/Andretanko/customlogger.git"
   },
-  "keywords": [ 
-    "", 
+  "keywords": [
+    "",
     "",
     ""
   ],
-  "author": "", 
+  "author": "",
   "license": "MIT"
 }
