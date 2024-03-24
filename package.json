@@ -1,6 +1,6 @@
 {
   "name": "customloggerpratt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "by Andretanko",
   "main": "./src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Andretanko/customlogger"
+    "url": "https://github.com/Andretanko/customlogger.git"
   },
   "keywords": [
     "",
